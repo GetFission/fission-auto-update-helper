@@ -1,0 +1,14 @@
+{
+  "name": "fission-helper",
+  "version": "0.1.0",
+  "description": "Helper to get unique ID for auto-update request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arch": "^2.1.0"
+  }
+}
