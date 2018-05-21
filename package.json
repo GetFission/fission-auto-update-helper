@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arch": "^2.1.0"
+    "arch": "^2.1.0",
+    "electron-updater-example": "git+https://github.com/GetFission/electron-updater-example.git"
   }
 }
